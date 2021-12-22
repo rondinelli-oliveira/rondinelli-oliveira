@@ -51,14 +51,14 @@
   <p>Meu nome é Rondinelli Oliveira.</p>
 
   <p>
-    Sou estudante de Análise e Desenvolvimento de Sistemas na UNINTER. 
+    Sou Formado em de Análise e Desenvolvimento de Sistemas na UNINTER. 
     Trabalho com tecnologia e desenvolvimento de software desde 2014. 
-    Hoje trabalho como Analista Programador na Everis. 
+    Hoje trabalho como Analista Desenvolvedor Full Stack na ACT. 
     Durante minha carreira, trabalhei com tecnologias como Java, Ecosistema Spring, Bancos de Dados e atualmente estudo React/React-Native.
   </p>
 </div>
 
-<p>Atualmente, trabalho na <a href="https://www.everis.com/brazil/pt-br"> Everis </a> como Analista Programador.</p>
+<p>Atualmente, trabalho na <a href="http://actdigital.com"> ACT Digital </a> como Analista Desenvolvedor Full Stack.</p>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rondinelli-oliveira)](https://github.com/rondinelli-oliveira)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rondinelli-oliveira-3937ab93/)](https://www.linkedin.com/in/rondinelli-oliveira-3937ab93/)
