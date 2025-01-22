@@ -54,7 +54,7 @@
     Sou Formado em de Análise e Desenvolvimento de Sistemas na UNINTER. 
     Trabalho com tecnologia e desenvolvimento de software desde 2014. 
     Hoje trabalho como Analista Desenvolvedor Full Stack. 
-    Durante minha carreira, trabalhei com tecnologias como Java, Ecosistema Spring, Bancos de Dados e atualmente estudo React/React-Native.
+    Durante minha carreira, trabalhei com tecnologias como Java, Ecosistema Spring, Bancos de Dados, Angular.
   </p>
 </div>
 
